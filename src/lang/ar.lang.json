@@ -1,0 +1,6 @@
+{
+  "Email-Not-Found" : "لم يتم العثور علي هذا البريد الاكتروني",
+  "User-Not-Found" : "لم يتم العثور ع المستخدم",
+  "Email-Exits-Already" : "هذا البريد مسجل بلفعل",
+  "UserName-Exits-Already" : "هذا المستخدم موجود بلفعل"
+}
